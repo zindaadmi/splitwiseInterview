@@ -256,7 +256,7 @@ Run tests using:
 
 This project is part of an interview coding challenge.
 
-## 👤 Author
+## 👤 Nikhil Parakh
 
 Created as part of a Splitwise interview coding challenge.
 
